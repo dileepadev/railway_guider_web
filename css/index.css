@@ -1,0 +1,98 @@
+/*
+   ------------------------------------------------------------------
+       Developed by 
+       Dileepa Bandara
+       https://dileepabandara.github.io/F45K-8J09M21B3L-785DX-PI5AC
+       ©dileepabandara.dev
+       contact.dileepabandara@gmail.com
+       2020
+   ------------------------------------------------------------------
+*/
+
+/*---------Navigation----------*/
+
+#nav-bar {
+    position: relative;
+    top: 0;
+    z-index: 20;
+}
+
+.navbar-brand img {
+    height: 60px;
+    margin-left: 40px;
+    margin-right: 10px;
+}
+
+.navbar-nav li {
+    padding: 0 10px;
+}
+
+.navbar-nav li a {
+    float: right;
+    text-align: left;
+    color: #292929 !important;
+    font-weight: 700;
+}
+
+#nav-bar ul li a:hover {
+    color: #0455F7 !important;
+}
+
+.navbar-toggler {
+    border: none !important;
+}
+
+.nav-link {
+    color: rgb(255, 255, 255) !important;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+#imglo{
+    margin-top: 10px;
+}
+
+/*----------------------------Footer------------------*/
+
+#footer {
+    background: #272727;
+    font-size: 16px;
+    color: #ffffff;
+    text-align: center;
+    padding: 0px;
+    padding-bottom: 30px;
+    font-family: sans-serif;
+}
+
+.list-inline-item a:hover {
+    color: #ffffff;
+}
+
+#footer ul li a:hover {
+    color: #0455F7 !important;
+}
+
+#footer p a:hover {
+    color: #0455F7 !important;
+}
+
+.list-unstyled li a {
+    color: #ffffff;
+}
+
+.col-md-2 p a {
+    color: #ffffff;
+}
+
+.col-md-3 p a {
+    color: #ffffff;
+}
+
+.list-inline-item {
+    border-radius: 50%;
+    color: #ffffff;
+}
+
+.button {
+    margin-bottom: 35px;
+}
