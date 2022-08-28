@@ -61,7 +61,7 @@ Double-click index.html or open it in a web browser
 
 ## 🖼️ Project Gallery
 
-Project screenshots and pictures - [Project Gallery](https://dileepabandara.github.io/project-gallery)
+Project screenshots and pictures - [Click here to view](https://www.figma.com/file/jhGzTnBhu3SOp7mGdIKpSS/Railway-Guider-Website-UI?node-id=0%3A1)
 
 ## ❤️ Thanks
 
